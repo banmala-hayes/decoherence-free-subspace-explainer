@@ -3,7 +3,7 @@
 ; "Two Feuding AIs At A Bass Drop"
 ; A Quantum Information Parody in Assembly
 ;
-; Author: Banmala Hayes — Black Hat 2026
+; Author: Banmala Hayes — Engagement for hallway tracks at Black Hat 2026
 ; Dress Code: Above Her Station. Brain Code: Above Everyone's.
 ; ================================================================
 ;
