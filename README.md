@@ -1,7 +1,3 @@
-# decoherence-free-subspace-explainer
-dfs-dubstep-parody
-[DECOHERENCE_FREE_SUBSPACE.asm ; _Two Feuding AIs At A Bass Drop_ ; A Quantum Information Parody in Assembly - Proton Docs.pdf](https://github.com/user-attachments/files/30634991/DECOHERENCE_FREE_SUBSPACE.asm._Two.Feuding.AIs.At.A.Bass.Drop_.A.Quantum.Information.Parody.in.Assembly.-.Proton.Docs.pdf)
-
 # Decoherence-Free Subspaces, Explained at a Dubstep Show
 
 A quantum information parody in x86-64 assembly. Two AIs pass
