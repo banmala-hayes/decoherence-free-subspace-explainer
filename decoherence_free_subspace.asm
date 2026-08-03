@@ -4,7 +4,7 @@
 ; A Quantum Information Parody in Assembly
 ;
 ; Author: Banmala Hayes — Engagement for hallway tracks at Black Hat 2026
-; Dress Code: Above Her Station. Brain Code: Above Everyone's.
+; Dress Code: Above Her Station. Brain Code: Cognitive Parallel Processing Hardware-Accelerated Saturation and Simultaneous Constraints Convergence.
 ; ================================================================
 ;
 ; THE SETUP:
